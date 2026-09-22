@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "lehaitien-plugins",
+  "description": "Personal Claude Code plugins (Le Hai Tien)",
+  "owner": { "name": "Le Hai Tien", "email": "scott.le@victoriaschool.edu.vn" },
+  "plugins": [
+    {
+      "name": "generate-permissions",
+      "description": "Scan a Django repo and draft a permission CSV for review/import.",
+      "category": "development",
+      "source": "./plugins/generate-permissions"
+    }
+  ]
+}

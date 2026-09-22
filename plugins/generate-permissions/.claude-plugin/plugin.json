@@ -1,0 +1,8 @@
+{
+  "name": "generate-permissions",
+  "version": "0.1.0",
+  "description": "Quet source code cua 1 repo Django backend bat ky de tu sinh danh sach endpoint (method, api_pattern), roi AI dien cac field nghiep vu thanh 1 file CSV de review va import. Khong tu ghi DB.",
+  "author": { "name": "Le Hai Tien", "email": "scott.le@victoriaschool.edu.vn" },
+  "license": "UNLICENSED",
+  "keywords": ["django", "permissions", "rbac", "csv-import", "endpoint-scan"]
+}
