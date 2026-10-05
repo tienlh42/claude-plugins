@@ -1,0 +1,8 @@
+{
+  "name": "api-permission",
+  "version": "0.1.0",
+  "description": "Tra permission cua 1 API trong service-api theo URL hoac ten view class (view, RoleAccess, row DB, role dang vao duoc) roi de xuat row CSV permission de import. Khong tu ghi DB.",
+  "author": { "name": "Le Hai Tien", "email": "scott.le@victoriaschool.edu.vn" },
+  "license": "MIT",
+  "keywords": ["django", "permissions", "rbac", "role-access", "service-api"]
+}

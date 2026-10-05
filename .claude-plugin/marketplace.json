@@ -9,6 +9,12 @@
       "description": "Scan a Django repo and draft a permission CSV for review/import.",
       "category": "development",
       "source": "./plugins/generate-permissions"
+    },
+    {
+      "name": "api-permission",
+      "description": "Look up the permission state of a service-api endpoint by URL or view class and propose a CSV permission row.",
+      "category": "development",
+      "source": "./plugins/api-permission"
     }
   ]
 }
